@@ -16,10 +16,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![React_Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react_native)
+  ![React_Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=reactnative)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-- 🛢 &nbsp;
+- 
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
