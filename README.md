@@ -37,7 +37,7 @@
 
 
 
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-Rohullah%20Nabavi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohullah-nabavi"><img src="https://img.shields.io/badge/-Rohullah%20Nabavi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 
 <!--
