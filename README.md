@@ -17,7 +17,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![React_Native](https://img.shields.io/badge/-React Native-333333?style=flat&logo=react)
+  ![React_Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
  
