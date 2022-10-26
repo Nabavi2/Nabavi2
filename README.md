@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- &nbsp; Software Engineering and lead mobile devloper and Tutia Tech and Rannlab Companies.
+- &nbsp; Software Engineering and Lead mobile devloper in TutiaTech and Rannlab Companies.
 
 
 ### 🛠 &nbsp;Tech Stack
