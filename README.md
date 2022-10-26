@@ -20,7 +20,7 @@
   ![React_Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Dart](https://img.shields.io/badge/-Azure-DeveOps-333333?style=flat&logo=AzureDeveOps)
+  ![AzureDeveOps](https://img.shields.io/badge/-AzureDeveOps-333333?style=flat&logo=AzureDeveOps)
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
