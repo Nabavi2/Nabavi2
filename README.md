@@ -20,12 +20,14 @@
   ![React_Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![AzureDeveOps](https://img.shields.io/badge/-AzureDeveOps-333333?style=flat&logo=AzureDeveOps)
+  ![GraphQL](https://img.shields.io/badge/-Grahpql-333333?style=flat&logo=graphql)
+  
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![AzureDeveOps](https://img.shields.io/badge/-AzureDeveOps-333333?style=flat&logo=AzureDeveOps)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
