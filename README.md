@@ -14,7 +14,7 @@
 ## 🛠 Skills
   <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts,bootstrap,git,github,flutter,redux,graphql,strapi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts,bootstrap,git,github,flutter,dart,redux,graphql,aws,)](https://skillicons.dev)
   
   </p>
 
