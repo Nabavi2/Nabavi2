@@ -12,7 +12,7 @@
 ## 🛠 Skills
   <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=react-native,redux-toolkit,html,css,js,bootstrap,git,redux,graphql,jest,vercel,strapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,js,bootstrap,git,redux,graphql,jest,vercel,strapi)](https://skillicons.dev)
   
   </p>
 
