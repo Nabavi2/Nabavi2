@@ -34,7 +34,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohullah-nabavi)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rohullah-nabavi)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rouhullah.nabavi)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=gmail&logoColor=white)](mailto:rohullahnabavi2019@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=gmail&logoColor=white)](mailto:rohullahnabavi2019@gmail.com) 
   
 </p>
 <!--
