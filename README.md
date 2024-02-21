@@ -4,7 +4,7 @@
 - &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - &nbsp; Software Engineer and Mobile App devloper.
 
-
+ 
 👩‍💻 Currently working in Code Giant <br>
 🧠 I'm currently working on myself to inhance my capabilities<br>
 💬 Ask me about Mobile App Development<br>
