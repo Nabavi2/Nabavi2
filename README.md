@@ -30,7 +30,7 @@
 
 ## 🔗 Links
 <p align="center">
-  
+   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohullah-nabavi)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rohullah-nabavi)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rouhullah.nabavi)
