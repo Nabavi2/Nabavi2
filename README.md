@@ -5,7 +5,7 @@
 - &nbsp; Software Engineer and Mobile App devloper.
 
 
- 
+  
 
 ## 🛠 Skills
   <p align="left">
