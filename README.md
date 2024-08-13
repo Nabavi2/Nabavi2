@@ -4,7 +4,7 @@
 - &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - &nbsp; Software Engineer and Mobile App devloper.
 
-
+ 
    
 
 ## 🛠 Skills
