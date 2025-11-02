@@ -19,9 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabavi2&show_icons=true&locale=en&layout=compact&theme=dark" alt="Rohullah Nabavi" />
 </p>
   
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nabavi2&count_private=true&show_icons=true&locale=en&theme=dark" alt="Rohullah Nabavi" />
-</div>
 
 ## 🔗 Links
 <p align="center">
